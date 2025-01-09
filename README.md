@@ -9,9 +9,15 @@ date,end date and approval status and insert values on these column.
 on these column. 
 
 08/01/2025
+
 After creating the list of "Leave Master" and "Holiday_list_MD",create a column Holiday Reference in "Leave Master" 
 and take the column type as Lookup and links to "Holiday_list_MD".Next to create a site content name as "Document library"
 and inside this create list name as "Leave Document" and create a column "Leave Master Reference" which type is Lookup
 and limks to "Leave Master".
 
 
+09/01/2025
+
+Today creates different different views like view_approvedStatus, views_groupByEmployees,views_UpcomingLeaves, views_pendingStatus.
+so, in view_approvedStatus only approved status are show, similarly in view_pendingStatus only pending status are show.
+so,similarly diffrent different views are working.
